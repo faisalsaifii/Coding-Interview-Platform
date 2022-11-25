@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/coding-interview-platform/static/css/main.2d4030d8.chunk.css",
+    "main.js": "/coding-interview-platform/static/js/main.a77ba75a.chunk.js",
+    "main.js.map": "/coding-interview-platform/static/js/main.a77ba75a.chunk.js.map",
+    "runtime-main.js": "/coding-interview-platform/static/js/runtime-main.44a4a281.js",
+    "runtime-main.js.map": "/coding-interview-platform/static/js/runtime-main.44a4a281.js.map",
+    "static/js/2.7bf49586.chunk.js": "/coding-interview-platform/static/js/2.7bf49586.chunk.js",
+    "static/js/2.7bf49586.chunk.js.map": "/coding-interview-platform/static/js/2.7bf49586.chunk.js.map",
+    "index.html": "/coding-interview-platform/index.html",
+    "static/css/main.2d4030d8.chunk.css.map": "/coding-interview-platform/static/css/main.2d4030d8.chunk.css.map",
+    "static/js/2.7bf49586.chunk.js.LICENSE.txt": "/coding-interview-platform/static/js/2.7bf49586.chunk.js.LICENSE.txt",
+    "static/media/call.999a47f7.svg": "/coding-interview-platform/static/media/call.999a47f7.svg",
+    "static/media/copy.0f900a25.svg": "/coding-interview-platform/static/media/copy.0f900a25.svg",
+    "static/media/cut.e580d96e.svg": "/coding-interview-platform/static/media/cut.e580d96e.svg",
+    "static/media/run.fa53056a.svg": "/coding-interview-platform/static/media/run.fa53056a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44a4a281.js",
+    "static/js/2.7bf49586.chunk.js",
+    "static/css/main.2d4030d8.chunk.css",
+    "static/js/main.a77ba75a.chunk.js"
+  ]
+}
